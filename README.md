@@ -3,7 +3,7 @@
 
 The third and final project in the Programming 1 course. A more complicated project than the last two, using more complicated ideas, such as error, exceptions and file handling.
 
-## Background information
+## Background information (from the course notes)
 
 This assignment is an exercise in simple object-oriented programming and, accordingly, you should adhere to basic-object oriented programming guidelines when designing and writing your classes, such as:
 
